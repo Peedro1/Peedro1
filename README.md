@@ -23,4 +23,4 @@
   <a href="www.linkedin.com/in/pedro-henrique-medeiros-a3b902198" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/Peedro1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Peedro1/Peedro1/blob/output/github-contribution-grid-snake.svg)
