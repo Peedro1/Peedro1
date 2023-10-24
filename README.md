@@ -5,8 +5,8 @@
 - 📫 Pode me contatar por E-mail: oliveira.pehenrique@gmail.com ou Instagram: Pedro_olisun
 
 <div align="center">
-  <a href="https://github.com/RaphaelDev22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Peedro1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Peedro1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Peedro1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peedro1&layout=compact&langs_count=7&theme=white"/>
 </div>
     
