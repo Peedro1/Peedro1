@@ -1,3 +1,4 @@
+<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
 ### Olá Meu nome é Pedro Medeiros
 
 - 🔭 Estudo Análise e Desenvolvimento de Sistemas
