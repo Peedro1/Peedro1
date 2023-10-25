@@ -3,7 +3,7 @@
 ### Olá Meu nome é Pedro Medeiros
 
 - 🔭 Estudo Análise e Desenvolvimento de Sistemas
-- 🌱 Tenho mais interesse na área do Front-End
+- 🌱 Tenho interesse na área do Front-End
 - 📫 Contatar por E-mail ou
  Instagram. (links abaixo)
 - ⭐ Fun fact: Primeira regra da programação - Se está funcionando, não mexa.
