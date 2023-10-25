@@ -1,10 +1,13 @@
 <img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+
 ### Olá Meu nome é Pedro Medeiros
 
 - 🔭 Estudo Análise e Desenvolvimento de Sistemas
 - 🌱 Tenho mais interesse na área do Front-End
 - 📫 Contatar por E-mail ou
  Instagram. (links abaixo)
+- ⭐ Fun fact: Primeira regra da programação - Se está funcionando, não mexa.
+  
 ##
 <div align="left">
   <a href="https://github.com/Peedro1">
