@@ -4,7 +4,7 @@
 - 🌱 Tenho mais interesse na área do Front-End
 - 📫 Pode me contatar por E-mail: oliveira.pehenrique@gmail.com ou Instagram: Pedro_olisun
 
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 <div align="center">
   <a href="https://github.com/Peedro1">
