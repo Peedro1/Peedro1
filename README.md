@@ -33,4 +33,4 @@
   <a href="www.linkedin.com/in/pedro-henrique-medeiros-a3b902198" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-medeiros-a3b902198/)](https://www.linkedin.com/in/pedro-henrique-medeiros-a3b902198/)
