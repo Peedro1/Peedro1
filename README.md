@@ -3,6 +3,7 @@
 ### Olá Meu nome é Pedro Medeiros
 
 - 🔭 Estudo Análise e Desenvolvimento de Sistemas
+- 📑 Veja meu portfólio: <a href="https://peedro1.github.io/">
 - 🌱 Tenho interesse na área do Front-End
 - 📫 Contatar por E-mail ou
  Instagram. (links abaixo)
